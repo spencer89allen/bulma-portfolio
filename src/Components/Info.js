@@ -19,22 +19,22 @@ class Info extends Component {
                     <ul>
                         <li className="is-active">
                             <Link to='/aboutMe'>
-                                <p>About Me</p>
+                                <p>ABOUT ME</p>
                             </Link>
                         </li>
                         <li>
                             <Link to={`/skills`}>
-                                <p>Skills</p>
+                                <p>SKILLS</p>
                             </Link>
                         </li>
                         <li>
                             <Link to={`/portfolil`}>
-                                <p>Portfolio</p>
+                                <p>PORTFOLIO</p>
                             </Link>
                         </li>
                         <li>
                             <Link to={`/contact`}>
-                                <p>Contact</p>
+                                <p>CONTACT</p>
                             </Link>
                         </li>
                     </ul>

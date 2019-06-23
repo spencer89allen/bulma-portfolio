@@ -13,20 +13,17 @@ class Header extends Component {
 
                 <section className="hero is-medium is-light is-bold">
                     <div className="hero-body heroHeader">
-                        <div className="container has-text-centered" >
-                        <h1 className="title"
-                            style={
-                                {
-                                    color: 'white',
-                                    textShadow: '0 1px 3px #0008'
-                                }
-                            }>
-                            <strong>Spencer Allen</strong>
-                        </h1>
-                        <h2 className="subtitle"
-                            style={{ color: 'white' }}>
-                            Web Developer
-                        </h2>
+                        <div className="container" >
+                            <div className='textContainer'>
+                                <h1 className="title titleText"
+                                    style={{ color: 'white' }}>
+                                    SPENCER ALLEN
+                                </h1>
+                                <h2 className="subtitle subtitleText"
+                                    style={{ color: 'white' }}>
+                                    Web Developer
+                                </h2>
+                            </div>
                         </div>
                     </div>
                 </section>

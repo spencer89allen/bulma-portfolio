@@ -3,3 +3,16 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.titleText {
+    font-size: 90px;
+    color: white;
+    text-Shadow: 0 1px 3px #0008;
+}
+
+.subtitleText {
+    font-size: 40px;
+    color: white;
+    text-shadow: 0 1px 3px #0008;
+}
+
