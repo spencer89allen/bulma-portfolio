@@ -9,9 +9,7 @@ class Contact extends Component {
     render() {
         return (
             <div className='box is-light'>
-
-
-                <section id="contact">
+                <section id="contact" className='notification is-dark'>
                     <div className="inner">
                         <h2 className="major">Get in touch</h2>
                         <p>Whether your a small business owner or the CEO of an international tech empire, I'm always excited for the
@@ -49,8 +47,6 @@ class Contact extends Component {
                         </ul>
                     </div>
                 </section>
-
-
             </div>
         )
     }

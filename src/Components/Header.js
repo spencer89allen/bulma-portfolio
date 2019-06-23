@@ -13,8 +13,8 @@ class Header extends Component {
 
                 <section className="hero is-medium is-light is-bold">
                     <div className="hero-body heroHeader">
-                        <div className="container" >
-                        <h1 className="title "
+                        <div className="container has-text-centered" >
+                        <h1 className="title"
                             style={
                                 {
                                     color: 'white',
