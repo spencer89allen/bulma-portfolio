@@ -18,7 +18,7 @@ class AboutMe extends Component {
                         </div>
                         <div className="media-content">
                             <div className="content">
-                                <p>I am a life long learner, a lover of complex problems and creative solutions, and a new software developer. I enjoy working in fast-paced environments and am always eager for new challenges. My pas work experience ranges from coal mining to brokering commercial real estate. I have a Bachelors of Science in Mining engineering but have landed on coding because of my love for solving puzzles, building things and the exciting opportunities it presents.</p>
+                                <p>I am a life long learner, a lover of complex problems and creative solutions, and a new software developer. I enjoy working in fast-paced environments and am always eager for new challenges. My past work experience ranges from coal mining to brokering commercial real estate. I have a Bachelors of Science in Mining engineering but have landed on coding because of my love for solving puzzles, building things, and the exciting opportunities it presents.</p>
                             </div>
                         </div>
                     </article>
